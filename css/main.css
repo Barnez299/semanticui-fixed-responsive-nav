@@ -3,6 +3,6 @@ body {
     background-color: whitesmoke;
 }
 
-footer>.list.item.a {
-    color: white;
+#fheader {
+    color: red;
 }
