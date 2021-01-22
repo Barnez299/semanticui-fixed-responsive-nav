@@ -1,7 +1,8 @@
 body {
-    padding-top: 50px;
+    padding-top: 100px;
+    background-color: whitesmoke;
 }
 
-footer>.item.a {
+footer>.list.item.a {
     color: white;
 }
